@@ -1,0 +1,3 @@
+C:\Users\Laura\Documents\UnrealProjects\Game\GameUE4\Source\GameUE4\GameUE4.Build.cs
+C:\Users\Laura\Documents\UnrealProjects\Game\GameUE4\Source\GameUE4.Target.cs
+C:\Users\Laura\Documents\UnrealProjects\Game\GameUE4\Source\GameUE4Editor.Target.cs
